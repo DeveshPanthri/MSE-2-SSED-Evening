@@ -9,8 +9,8 @@
 | Field | Student Details |
 |---|---|
 | **Student Name** | Devesh Panthri |
-| **Roll Number** | `[Enter your University Roll Number]` |
-| **Section** | `[Enter your Section, e.g., AIML-A / AIML-B]` |
+| **Roll Number** | `202401100400080` |
+| **Section** | `CSE AIML B` |
 | **Branch** | B.Tech - Computer Science & Engineering (AIML) |
 | **GitHub Username** | `DeveshPanthri` |
 | **Docker Hub Username** | `2428cseaiml1299` |
@@ -168,7 +168,7 @@ Tests:       12 passed, 12 total
 
 ### 11. Instructor CI Checks on Pull Request
 - **What to capture**: The Pull Request page on `https://github.com/atindeRR/MSE-2-SSED-Evening/pull/[PR_NUMBER]` showing your PR title:
-`DOCKER-SET-2 | [ROLL-NUMBER] | Devesh Panthri | [SECTION]`
+`DOCKER-SET-2 | 202401100400080 | Devesh Panthri | CSE AIML B`
 and the instructor CI workflow status.
 
 ---
